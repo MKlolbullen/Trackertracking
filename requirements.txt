@@ -1,0 +1,7 @@
+requests 
+beautifulsoup4 
+networkx 
+plotly 
+PyQt5 
+PyQtWebEngine 
+whois
